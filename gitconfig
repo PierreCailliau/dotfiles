@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cailliau.pierre@gmail.Com
+	name = pierre cailliau
